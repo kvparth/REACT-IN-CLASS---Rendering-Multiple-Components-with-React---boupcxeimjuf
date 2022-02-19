@@ -5,7 +5,7 @@ import { connect } from 'react-redux'
 export class Name extends Component {
   render() {
     return (
-      <div data-ns-test attribute="project-name">
+      <div data-ns-test="project-name">
           dshfkdhjgkg       
       </div>
     )
