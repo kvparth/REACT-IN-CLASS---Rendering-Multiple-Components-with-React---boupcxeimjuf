@@ -6,7 +6,7 @@ export class Description extends React.Component {
   
   render() {
     return (
-      <div data-ns-test attribute="project-description">dhfhf
+      <div data-ns-test="project-description">dhfhf
         
       </div>
     )
